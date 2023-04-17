@@ -54,8 +54,7 @@ cualquier proyecto. Como primera tarea de Antonio y, para ayudarlo a familiariza
 repositorio, le encargan algo simple: modificar unas líneas de un archivo y crear su primer
 PR.
 Para llevar a cabo su propósito Antonio crea una cuenta en GitHub con el correo que le
-otorgó la empresa. Instala Git en su computadora. Recibe de Amy la recomendación de que
-
+otorgó la empresa. Instala Git en su computadora. Recibe de Amy la recomendación de que 
 también incluya una GUI de Git y ella le sugiere que elija la que más le acomode.
 Posteriormente crea una llave SSH que le permita establecer una conexión segura con el
 repositorio de la empresa, https://github.com/i-taketoshi/hadson-ml, el cual clona mediante
